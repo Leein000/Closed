@@ -1,0 +1,6 @@
+name: Ending
+version: '${project.version}'
+main: close.ending.Ending
+api-version: 1.17
+commands:
+  closed:
